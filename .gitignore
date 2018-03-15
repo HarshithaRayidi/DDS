@@ -1,0 +1,14 @@
+/.idea/
+/target/
+/spark-warehouse/
+/target/
+/.idea
+/*.iml
+/.settings/
+/.classpath
+/.project
+/dependency-reduced-pom.xml
+/bin/
+/doc/
+/conf/
+/log/
